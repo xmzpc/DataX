@@ -1,0 +1,6 @@
+{
+    "name": "md5transformer",
+    "class": "com.alibaba.datax.plugin.transformer.md5transformer.MD5Transformer",
+    "description": "MD5Transformer",
+    "developer": "xmz"
+}

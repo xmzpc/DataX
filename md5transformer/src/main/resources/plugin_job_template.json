@@ -1,0 +1,17 @@
+{
+  "transformer": [
+    {
+      "name": "md5transformer",
+      "parameter": {
+        "columnIndex": 9
+      }
+    },
+    {
+      "name": "md5transformer",
+      "parameter": {
+        "columnIndex": 11
+      }
+    }
+  ]
+}
+
